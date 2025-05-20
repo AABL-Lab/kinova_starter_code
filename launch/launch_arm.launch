@@ -8,7 +8,7 @@
         <arg name="start_rviz" value="false"/>
     </include>
 
-    <!-- Collect Data -->
+
     <node pkg="joy" name="joy_node" type="joy_node" />
 
     <!-- <node
