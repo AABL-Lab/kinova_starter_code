@@ -11,6 +11,14 @@ find_package(catkin REQUIRED COMPONENTS
   roscpp
   rospy
   std_msgs
+  teleop_lib
+  poli2_launch
+  joy
+  geometry_msgs
+  sensor_msgs
+  dynamic_reconfigure
+  shared_control
+  armpy
 )
 
 ## System dependencies are found with CMake's conventions
