@@ -13,7 +13,7 @@
 
     <node
         name="collision_scene"
-        pkg="hri_preferences_study"
+        pkg="kinova_starter_code"
         type="setup_tablebot_collision_scene.py"
     />
 
